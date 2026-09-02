@@ -1,5 +1,3 @@
-# miniguia-vendas-notebooklm
-Caderno temático sobre Vendas criado com IA (NotebookLM) — desafio DIO/Santander
 # Miniguia de Estudos: Vendas com apoio do NotebookLM
 
 > Caderno Temático produzido com o NotebookLM (Google) para o desafio de projeto da DIO em parceria com o Santander.
