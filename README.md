@@ -80,3 +80,7 @@ Documente aqui os prompts que você testou no NotebookLM, o que funcionou e o qu
 | ... | ... |
 
 ### Prompts reutilizáveis para revisão futura
+1. "Com base nos documentos carregados, monte um quiz de 5 perguntas sobre [etapa do processo de vendas]."
+2. "Compare as técnicas de negociação apresentadas nas fontes X e Y, destacando semelhanças e diferenças."
+3. "Explique [termo do glossário] como se eu estivesse aprendendo pela primeira vez, usando um exemplo prático de vendas B2B."
+4. "Liste os pontos em que as fontes discordam entre si, se houver."
