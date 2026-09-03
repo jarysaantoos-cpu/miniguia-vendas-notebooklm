@@ -26,9 +26,6 @@ Fontes abertas selecionadas e carregadas no NotebookLM:
 2. **[27 Livros de Vendas Grátis em PDF — Infolivros](https://infolivros.org/livros-pdf-gratis/negocios/vendas/)** — curadoria de apostilas e e-books gratuitos sobre vendas B2B, prospecção e gestão comercial (baixe 1 ou 2 PDFs específicos dessa lista para subir no NotebookLM).
 3. **[eBook: Tudo sobre Funil de Vendas — RD Station](https://www.rdstation.com/resources/ebooks/ebook-funil-de-vendas/)** — material sobre como estruturar e otimizar um funil de vendas.
 4. **[eBook: CRM — como gerar mais vendas a partir da análise de dados — RD Station](https://www.rdstation.com/resources/ebooks/ebook-crm-vendas-analise-de-dados/)** — conecta vendas com dados, boa ponte com seu interesse em Data/IA.
-5. *(Adicione uma 5ª fonte de sua escolha — pode ser um artigo, capítulo de livro ou material da sua empresa/faculdade)*
-
-> ⚠️ Alguns materiais da RD Station pedem cadastro de e-mail para baixar o PDF completo — nesse caso, você também pode carregar o artigo em HTML/texto direto no NotebookLM em vez do PDF.
 
 ---
 
