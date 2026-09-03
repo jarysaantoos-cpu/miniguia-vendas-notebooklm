@@ -80,3 +80,9 @@ Documente aqui os prompts que você testou no NotebookLM, o que funcionou e o qu
 | ... | ... |
 
 ### Prompts reutilizáveis para revisão futura
+
+---
+
+## 🔗 Sobre este projeto
+
+Projeto desenvolvido para o desafio de projeto da [DIO](https://www.dio.me/) em parceria com o Santander, trilha de Data & Artificial Intelligence.
